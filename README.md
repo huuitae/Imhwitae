@@ -19,5 +19,4 @@
 <h3 align="center">요즘 이거 공부중이에요</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
 </p>
