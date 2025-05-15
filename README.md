@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=300&section=header&text=Hello?%20I'm%20hwitae%20Hwang&fontSize=60" />
 
-<h3 align="center">안녕하세요 신입 개발자 지망생 황휘태 입니다</h3>
+<h3 align="center">안녕하세요 신입 개발자 황휘태 입니다</h3>
 <br/><br/>
 
 <h3 align="center">기술 스택</h3>
